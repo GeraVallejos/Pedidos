@@ -1,0 +1,4 @@
+site_name: Pedidos
+nav:
+  - Home: index.md
+theme: readthedocs
